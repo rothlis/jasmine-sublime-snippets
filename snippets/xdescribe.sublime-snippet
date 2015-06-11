@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-xdescribe("${1:Name of the group}", function() {
+xdescribe("${1:Name of the group}", () => {
 	$2
 });]]>
 	</content>

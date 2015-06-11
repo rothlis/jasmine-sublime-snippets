@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-xit("${1:should behave...}", function() {
+xit("${1:should behave...}", () => {
 	$2
 });]]>
 	</content>
